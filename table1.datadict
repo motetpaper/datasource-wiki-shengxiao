@@ -1,0 +1,48 @@
+This is the data dictionary for `table1.txt`
+
+The source of this table is the "Chinese Zodiac" article on Wikipedia:
+  + https://en.wikipedia.org/wiki/Chinese_zodiac
+
+The 60-year cycles are infinite, but the Wikipedia article has provided a two-cycle snapshot as an examplar.
+
+In this table, Cycle 0 indicates a previous 60-year cycle, while Cycle 1 represents the current one.
+
+There are 8 columns in this table.
+
+1. The ordinal year (1 - 60)
+2. Cycle 0 Years (start and end dates)
+3. Cycle 1 Years (start and end dates)
+4. Animal
+5. Yin/Yang
+6. Element
+7. Heavenly Stem
+8. Earthly Branch
+
+
+EXAMPLE TABLE
+1 Feb 05 1924 – Jan 23 1925 Feb 02 1984 – Feb 19 1985 Rat Yang  Wood  甲 子
+
+
+ORDINAL YEAR
+1
+
+CYCLE 0 YEAR (previous cycle)
+Feb 05 1924 – Jan 23 1925
+
+CYCLE 1 YEAR (current cycle)
+Feb 02 1984 – Feb 19 1985
+
+ANIMAL
+Rat
+
+YINYANG
+Yang
+
+ELEMENT
+Wood
+
+STEM
+甲
+
+BRANCH
+子
