@@ -3,7 +3,9 @@ This is the data dictionary for `table1.txt`
 The source of this table is the "Chinese Zodiac" article on Wikipedia:
   + https://en.wikipedia.org/wiki/Chinese_zodiac
 
-The 60-year cycles are infinite, but the Wikipedia article has provided a two-cycle snapshot as an examplar.
+A PDF copy of this Wikipedia article is available in the `refs/` folder of this repo.
+
+The 60-year cycles are periodic (with each unique year recurring every 60 years, like the minutes of a clock on a much larger timescale), but the Wikipedia article has provided a two-cycle snapshot as an examplar for readers.
 
 In this table, Cycle 0 indicates a previous 60-year cycle, while Cycle 1 represents the current one.
 
